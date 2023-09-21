@@ -5,7 +5,7 @@ Analyze global happiness trends and factors affecting happiness scores using Pyt
 ## Getting Started
 
 1. Install required libraries.
-2. Open and run the `world_happiness_analysis.ipynb` notebook.
+2. Open and run the `World Happiness Report Project.ipynb` notebook.
 
 
 ## Highlights
